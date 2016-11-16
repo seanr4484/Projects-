@@ -1,0 +1,110 @@
+#h1
+{
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 50px;
+color: white
+}
+
+#slogan
+{
+font-family: Tahoma, Geneva, sans serif;
+font-size:20px;
+color: white;
+}
+
+#nav 
+{
+width: 960px; 
+margin: 0 0 0 0;
+padding: 0;
+color: #66CCFF;
+background-color: white;
+border-bottom: 1px ridge #ccc;
+border-top: 1px ridge #ccc;
+font-family: Tahoma, Geneva, sans-serif;
+border-radius: 10px;
+}
+
+
+#wrapper
+{
+width:100%;
+background-color:#66CCFF;
+}
+
+
+body  
+{
+background-image: url("images/sky2.jpg");
+background-color: #66CCFF;
+background-size:cover;
+}
+
+
+#europe
+{
+width:960px;
+margin: 0 0 0 0;
+background-color:#CCFFFF;
+border: 5px ridge blue;
+font-family: Tahoma, Geneva, sans-serif;
+border-radius: 10px;
+}
+	
+#spain
+{
+width:960px;
+margin:0 0 0 0;
+background-color:#CCFFFF;
+border: 5px ridge red;
+font-family: Tahoma, Geneva, sans-serif;
+border-radius: 10px;
+}
+
+
+#germany
+{
+width:960px;
+margin:0 0 0 0;
+background-color:#CCFFFF;
+border: 5px ridge yellow;
+font-family: Tahoma, Geneva, sans-serif;
+border-radius: 10px;
+}
+
+
+#usa
+{
+width:960px;
+margin: 0 0 0 0;
+background-color:#CCFFFF;
+border: 5px dotted blue;
+font-family: Tahoma, Geneva, sans-serif;
+border-radius: 10px;
+}
+
+#newyork
+{
+width:960px;
+margin: 0 0 0 0;
+background-color:#CCFFFF;
+border:5px dotted white;
+font-family: Tahoma, Geneva, sans-serif;
+border-radius: 10px;
+}
+
+
+#la
+{
+width:960px;
+margin: 0 0 0 0;
+background-color:#CCFFFF;
+border: 5px dotted red;
+font-family: Tahoma, Geneva, sans-serif;
+border-radius: 10px;
+}
+
+#ny1
+{
+position: center
+}

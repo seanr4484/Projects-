@@ -1,0 +1,99 @@
+body  
+{
+background-image: url("images/sky2.jpg");
+background-color: #66CCFF;
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+
+#nav 
+{
+width: 960px; 
+margin: 0 0 0 0;
+padding: 0;
+color: #66CCFF;
+background-color: white;
+border-bottom: 1px ridge #ccc;
+border-top: 1px ridge #ccc;
+font-family: Tahoma, Geneva, sans-serif;
+border-radius: 10px;
+
+}
+
+
+#wrapper
+{
+width:100%;
+background-color:#66CCFF;
+}
+
+
+#table
+{
+width:960px;
+margin: 0 0 0 0;
+background-color:#CCFFFF;
+border: 5px ridge blue;
+font-family: Tahoma, Geneva, sans-serif;
+border-radius: 10px;
+font-size: 16px;
+
+}
+	
+#cartable
+{
+width:960px;
+margin:0 0 0 0;
+background-color:#CCFFFF;
+border: 5px ridge red;
+font-family: Tahoma, Geneva, sans-serif;
+border-radius: 10px;
+}
+
+
+#h1
+{
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 50px;
+color: white;
+}
+
+
+#slogan
+{
+font-family: Tahoma, Geneva, sans serif;
+font-size:20px;
+color: white;
+}
+
+
+#about
+{
+font-family: Tahoma, Geneva, sans serif;
+font-size:20px;
+color: white
+}
+
+
+#insurance
+{
+font-family: Tahoma, Geneva, sans serif;
+font-size:20px;
+color: white
+}
+
+
+#atol
+{
+font-family: Tahoma, Geneva, sans serif;
+font-size:20px;
+color: white
+}
+
+#script
+{
+border:2px dotted blue;
+}
+
+
